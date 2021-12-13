@@ -18,4 +18,13 @@ Sample results and outputs have been generated using data fora given city from t
 ![20210414_Microsim_Overview](https://user-images.githubusercontent.com/66263560/115389727-5ae51280-a1d5-11eb-89b8-db5de217be53.png)
 
 ## Population Synthesis
-Population synthesis is carried out using Iterative Proportional Fitting (REF) and implemented in R using the 'ipfp' package. 
+Population synthesis is carried out using Iterative Proportional Fitting (REF) and implemented in R using the `ipfp` package. Ward-level Census Tables are used as contraint tables and a sample of household level responses from the IHDS are used as microdata to populate the synthetic population from.
+
+## Bayesian Multi-level Model
+
+### Primary Fuel Choice Estimation
+
+### 
+
+### Spatial Effects
+Two different types of coefficient are used in the model to capture local spatial effects. 
