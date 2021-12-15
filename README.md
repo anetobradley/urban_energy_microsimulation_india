@@ -23,8 +23,10 @@ Population synthesis is carried out using Iterative Proportional Fitting (REF) a
 ## Bayesian Multi-level Model
 
 ### Primary Fuel Choice Estimation
+Primary fuel choice estimation is carried out 
 
-### 
+### Hierarchical Model
+A Bayesian Hierarchical Model is used to estimate cooking fuel use with coefficients varying by cooking fuel group `i` and cityward `j`.
 
 ### Spatial Effects
 Two different types of coefficient are used in the model to capture local spatial effects. 
