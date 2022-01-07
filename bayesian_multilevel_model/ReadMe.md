@@ -15,6 +15,8 @@ The NSS Consumer Surveys are carried out regularly by the Ministry of Statistics
 
 The synthetic population generated using teh script in this repository draws individual level instances (households) from the Indian Human Development Survey microdata. Information about this survey as well as the data can be accessed online (https://ihds.umd.edu/)
 
+In addition a ward map as a geojson or shapefile will be needed to produce the city ward graph used to calculate the ICAR coefficient based on neighbouring wards. 
+
 ## 2. Multilevel Modelling Overview
 
 This aim of this model is to estimate distributions for mean LPG and Firewood consumption and Residual Biomass use for households in a city within a a given state, based on primary cooking fuel choice and city ward.
