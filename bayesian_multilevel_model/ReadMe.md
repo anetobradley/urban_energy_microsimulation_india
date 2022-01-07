@@ -6,6 +6,7 @@ This folder contains Stan Model files and R Scripts for running a Bayesian Multi
 - [2. Multilevel Modelling Overview](#2-multilevel-modelling-overview)
 - [3. Model Specification](#3-model_specifications)
 - [4. MCMC Sampling with Stan](#4-mcmc-sampling-with-stan)
+- [5. Notes on Data](#5-notes-on-data)
 
 ## 1. Data Sources
 
