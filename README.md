@@ -1,7 +1,7 @@
 # Urban residential energy microsimulation toolkit for India
 Tools for generating urban synthetic populations for India, and running energy transition microsimulations.
 
-REPO IS STILL BEING ASSEMBLED - DOCUMENTATION AND SOURCE CODE BEING UPDATED.
+REPO IS STILL BEING UPDATED.
 
 - [1. Data Sources](#1-data-sources)
 - [2. Objectives & Functionality](#2-objectives-and-functionality)
